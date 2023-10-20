@@ -1,3 +1,6 @@
+#Interpolar 4 parâmetros da equação de chuvas intensas. 
+#Parâmetros K, a, b, c.
+
 import math
 import numpy as np
 import pandas as pd
